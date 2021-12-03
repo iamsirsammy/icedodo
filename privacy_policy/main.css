@@ -1,0 +1,24 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+iframe {
+	width: 100%;
+	height: 100%;
+}
+#logo {
+	font-size: 32px;
+	text-align: center;
+	background: black;
+	height: 70px;
+	line-height: 70px;
+	padding-bottom: 5px;
+}
+#logo_inner {
+	background: -webkit-linear-gradient(1.4turn, #3bf0e4,#bca1f7);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-family: 'Alata', sans-serif;
+	text-decoration: none;
+}
